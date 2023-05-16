@@ -1,0 +1,12 @@
+{
+    "folders": [],
+    "settings": {
+        "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+        }
+    },
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ]
+}
